@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVL平衡搜索树", "AVL平衡搜索树\AVL平衡搜索树.vcxproj", "{47F55672-AA34-4320-B7DC-99E4A8E3EAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F55672-AA34-4320-B7DC-99E4A8E3EAD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47F55672-AA34-4320-B7DC-99E4A8E3EAD4}.Debug|Win32.Build.0 = Debug|Win32
+		{47F55672-AA34-4320-B7DC-99E4A8E3EAD4}.Release|Win32.ActiveCfg = Release|Win32
+		{47F55672-AA34-4320-B7DC-99E4A8E3EAD4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
