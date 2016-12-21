@@ -10,7 +10,6 @@ public:
 	TreeNode* rson;
 };
 
-//平衡二叉树类的声明
 template<class T>
 class AVLTree{
 private:
